@@ -33,5 +33,3 @@ $ cd /app/ocr/
 $ ./ocr.sh
 ```
 The recognized characters will be printed in terminal. You can also modify ocr.sh to switch tesseract ocr setting.
-# rb5-ocr
-# rb5-ocr
